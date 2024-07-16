@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "mlflow-dvc-classification-tf"
+REPO_NAME = "US-Visa-automate"
 AUTHOR_USER_NAME = "utkarsh-iitbhu"
 SRC_REPO = "us_visa"
 AUTHOR_EMAIL = "utkarsh.bhuiit@gmail.com"

@@ -94,9 +94,9 @@ typing_extensions==4.12.2
 tzdata==2024.1
 ujson==5.10.0
 urllib3==2.2.2
+-e git+https://github.com/utkarsh-iitbhu/US-Visa-automate.git@2c528d52d14c0ebca7c9614a4028a3849801bba8#egg=us_visa
 uvicorn==0.30.1
 watchfiles==0.22.0
 wcwidth==0.2.13
 websockets==12.0
 xgboost==2.1.0
-# -e .
